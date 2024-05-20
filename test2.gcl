@@ -1,0 +1,7 @@
+{:
+    F = False
+:}
+
+{ F }
+skip
+{ True }

@@ -1,0 +1,8 @@
+{:
+    F a b = a b
+    ID a = a
+:}
+
+{ F ID True }
+skip
+{ True }
