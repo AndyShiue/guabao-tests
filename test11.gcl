@@ -1,0 +1,8 @@
+{:
+    ID a = a
+    COMP g f a = g (f a)
+:}
+
+{ COMP ID ID True }
+skip
+{ True }
