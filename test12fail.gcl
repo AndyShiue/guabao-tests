@@ -1,0 +1,11 @@
+{:  
+    data T a = C1 | C2 
+
+    i = 0
+    
+    x : T i
+    x = C1
+:}
+
+{ True }
+
